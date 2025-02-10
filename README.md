@@ -1,4 +1,3 @@
- ![logo](https://github.com/ganeshsatya8623/ganeshsatya8623/blob/main/Banner%20Githubbb.png)
 <h1 align="center">Hi 👋, I'm Ganesh Satya Lingolu</h1>
 <h3 align="center">CS Engineering Undergrad</h3>
 
