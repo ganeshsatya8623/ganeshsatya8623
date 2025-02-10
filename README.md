@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Ganesh satya . Student at Bharath unversity
-Profile under making
-My passion lies in providing equal access to technology for people from diverse backgrounds, believing in its ability to transform lives. Eager to be at the forefront of driving innovation, I aim to create inclusive solutions that empower individuals and foster positive change on a global scale.
+##Profile under making
+## My passion lies in providing equal access to technology for people from diverse backgrounds, believing in its ability to transform lives. Eager to be at the forefront of driving innovation, I aim to create inclusive solutions that empower individuals and foster positive change on a global scale.
 🌍  I'm based in India
 🚀  I'm currently working on Mitigating Flash Crowd Attacks.
 🧠  I'm learning Full Stack Development
