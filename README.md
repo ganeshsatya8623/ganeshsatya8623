@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development ❤️**
 
-- 👯 I’m looking to collaborating **on Web development, ML and Cybersecurity related projects and research.**
+- 👯 I’m looking to collaborating **on Web development, ML and Cybersecurity related projects and research**
 
-- 🔭 I’m currently working on **FRAUDSHEILD-ENHANCING FAKE CREDIT CARD DETECTION**
+- 🔭 I’m currently working on **Fraudshield-Enhancing Fake credit card detection &&  Deep Learning-Based Web System for Automated Skin Anomaly Detection projects**
 
 - ⚡ I am **a Alpha Microsoft Learn Student Ambassador .**
 
