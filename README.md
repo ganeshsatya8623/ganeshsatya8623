@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Fraudshield-Enhancing Fake credit card detection &&  Deep Learning-Based Web System for Automated Skin Anomaly Detection projects**
 
-- ⚡ I am **a Alpha Microsoft Learn Student Ambassador .**
+- ⚡ I am **A Alpha Microsoft Learn Student Ambassador .**
 
 - 📫 How to reach me **ganeshsatya8623@gmail.com**
 
