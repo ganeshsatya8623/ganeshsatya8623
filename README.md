@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-satya-7b7165257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganesh-satya-7b7165257/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-satya-7b7165257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ganesh-satya-/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ganeshsatya.lingolu.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ganeshsatya.lingolu.5" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr_wanted_1807/?locale=en_gb&hl=am-et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_wanted_1807/?locale=en_gb&hl=am-et" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/ganeshsatya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ganeshsatya" height="30" width="40" /></a>
